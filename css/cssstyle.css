@@ -1,0 +1,57 @@
+body{ background-color:#92bde7;
+color:#485e74;
+line-height: 1.6; }
+#forms{
+    max-width: width 1160px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:1em;}
+
+#white{
+    color: rgb(46, 40, 117);
+    font-size:50px;
+    font-family: 'Times New Roman', Times, serif;
+font-weight:bold;
+text-decoration:underline;
+text-decoration-color: rgb(46, 40, 117);
+text-align: center; }
+
+.intro1{font-weight:bold;
+font-family: Segoe UI,Tahoma,Geneva,Verdana,sans-serif;
+font-size: 20px;
+line-height: 1.6;
+color:#485e74; }
+
+#pa1{
+    background-color: rgb(127, 199, 181);
+width:50%;
+height:800px;
+margin: 200px;
+padding:50px;
+display:inline-block;
+box-sizing: border-box; }
+#titre2{
+    background-color: rgb(210, 230, 243);
+    width:50%;
+    height:700px;
+    margin-left:200px;
+    padding:50px;
+    display:inline-block;
+font-size:20px;}
+   
+#alert{
+text-align: center;
+padding:10px;
+background-color: #79c879;
+color:#fff;
+margin-bottom: 10px;
+display:none;}    
+
+#boutton{
+    width:100%;
+    padding:1em;
+    background-color:rgb(130, 204, 226);
+    border:5px;
+    border-color: #92bde7;
+    font-size: 20px;
+}
